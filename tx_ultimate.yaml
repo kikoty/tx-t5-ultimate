@@ -16,11 +16,11 @@ substitutions:
   button_on_time: 500ms
 
   button_brightness: "0.7"
-  button_color: "{50,50,100}"
+  button_color: "{0,0,100}"
 
   nightlight: "on"
   nightlight_brightness: "0.2"
-  nightlight_color: "{80,70,50}"
+  nightlight_color: "{80,70,0}"
 
   latitude: "50.123456°"
   longitude: "5.654321°"
